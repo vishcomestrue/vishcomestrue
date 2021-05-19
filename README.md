@@ -21,4 +21,4 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 <a href="chasisofcars.blogspot.com" target="_blank">Click here</a></p>
-## And thats it!! Thanks for scrolling till here!
+## And thats it!!
