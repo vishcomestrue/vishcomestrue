@@ -19,3 +19,4 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 <hr />
 
 ## And thats it!!
+> Have a nice day!
