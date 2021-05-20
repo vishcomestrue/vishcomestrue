@@ -17,8 +17,4 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 </p>
 </details>
 <hr />
-<p>I also have a small blog where I post some latest news and tech happening in the Car industry!<br>
-
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-<a href="chasisofcars.blogspot.com" target="_blank">Click here</a></p>
 ## And thats it!!
