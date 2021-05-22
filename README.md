@@ -1,13 +1,12 @@
+![VISHWANATH R](https://user-images.githubusercontent.com/84440397/119236745-bac53500-bb56-11eb-8ad8-49422d0b2408.jpg)
+
+<hr />
 <h1 align="center">
 Kon'nichiwa👋, I am Vishwanath R
 </h1>
-<!-- <p align="center">
+<p align="center">
 Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
-</p> -->
-<hr />
-
-![VISHWANATH R](https://user-images.githubusercontent.com/84440397/119236745-bac53500-bb56-11eb-8ad8-49422d0b2408.jpg)
-
+</p>
 <hr />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue)<hr />
