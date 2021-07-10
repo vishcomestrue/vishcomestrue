@@ -11,8 +11,8 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 
 <div align="center">
   <br/>
-    <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishcomestrue&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishcomestrue&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  </div>
 
