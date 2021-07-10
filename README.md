@@ -9,7 +9,15 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 </p>
 <hr />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue)<hr />
+<div align="center">
+  <br/>
+    <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kailash360&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kailash360/github-readme-stats"><img alt="Kailash Kejriwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash360&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ </div>
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue) -->
+<hr />
 <p align="center">I am part of a beautiful tech community known as "TechnoPhiles"<br />Do you wanna be a part of it too? Then use the link below to join the community in Discord<br /><a href="https://discord.gg/EVXCUtJXWw">Join the community</a></p>
 <hr />
 <details align="center">
