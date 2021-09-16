@@ -9,6 +9,10 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
 </p>
 <hr />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p>
+
+<hr />
+
 <div align="center">
   <br/>
     <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishcomestrue&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -16,8 +20,6 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
   <br/>
  </div>
  
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p>
-
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue) -->
 <hr />
 <p align="center">I am part of a beautiful tech community known as "TechnoPhiles"<br />Do you wanna be a part of it too? Then use the link below to join the community in Discord<br /><a href="https://discord.gg/EVXCUtJXWw">Join the community</a></p>
