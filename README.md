@@ -15,6 +15,8 @@ Aspiring Web Developer | Tech Enthusiast | Revhead | Undergrad
   <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishcomestrue&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  </div>
+ 
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue) -->
 <hr />
