@@ -7,9 +7,9 @@ Kon'nichiwa👋, Ore wa Vishwanath R desu!
 <p align="center">
 Robotics Grad | Web Developer | F1 & Football
 </p>
-<hr />
+<!-- <hr /> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p> -->
 
 <hr />
 
