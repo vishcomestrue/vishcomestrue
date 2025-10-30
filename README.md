@@ -2,10 +2,10 @@
 
 <hr />
 <h1 align="center">
-Kon'nichiwa👋, Ore wa Vishwanath R desu!
+Hey there, this is Vishwanath R <br /> வணக்கம், என் பெயர் விஷ்வநாத் இரா  <br />
 </h1>
 <p align="center">
-Robotics Grad | Web Developer | F1 & Football
+Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
 </p>
 <!-- <hr /> -->
 
