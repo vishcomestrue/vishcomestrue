@@ -1,4 +1,4 @@
-![VISHWANATH R](https://user-images.githubusercontent.com/84440397/119236745-bac53500-bb56-11eb-8ad8-49422d0b2408.jpg)
+![VISHWANATH R](https://github.com/user-attachments/assets/4376b9ca-2b7b-4d29-957a-eb6718cf7113)
 
 <hr />
 <h1 align="center">
@@ -6,6 +6,7 @@ Hey there, this is Vishwanath R <br /> வணக்கம், என் பெ�
 </h1>
 <p align="center">
 Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
+
 </p>
 <!-- <hr /> -->
 
@@ -13,15 +14,15 @@ Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
 
 <hr />
 
-<div align="center">
+<!-- <div align="center">
   <br/>
     <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishcomestrue&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/vishcomestrue/github-readme-stats"><img alt="Vishwanath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishcomestrue&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
- </div>
+ </div> -->
  
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue) -->
-<hr />
+<!-- <hr /> -->
 <div>
 <span align="center"><h2 style="display: inline">I have worked with</h3></span>
 <!-- <p align="center"> -->
