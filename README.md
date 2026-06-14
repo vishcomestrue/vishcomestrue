@@ -8,11 +8,11 @@ Hey there, this is Vishwanath R <br /> வணக்கம், என் பெ�
 Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
 
 </p>
-<!-- <hr /> -->
+<hr />
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishcomestrue&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="Vishwanath R" /></p> -->
 
-<hr />
+<!-- <hr /> -->
 
 <!-- <div align="center">
   <br/>
@@ -23,9 +23,8 @@ Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
  
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vishcomestrue) -->
 <!-- <hr /> -->
-<div>
+<!-- <div>
 <span align="center"><h2 style="display: inline">I have worked with</h3></span>
-<!-- <p align="center"> -->
 
 <b>Machine Learning and Deep Learning:</b>
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) <br />
@@ -38,6 +37,5 @@ Robotics Grad. | Intelligent Legged Robotics | I regularly follow F1 & Football
 <b>Version Control: </b>[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) <br />
 <b>Other Programming Languages and Tools: </b>
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-<!-- </p> -->
 </div>
-<hr />
+<hr /> -->
